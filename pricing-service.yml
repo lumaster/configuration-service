@@ -3,7 +3,7 @@ server:
 message:
   greeting: Hello! Pricing-service configuration
 product:
-  price: 99.99
+  price: 44.99
 eureka:
   client:
     serviceUrl:
