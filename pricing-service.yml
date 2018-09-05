@@ -3,11 +3,11 @@ server:
 message:
   greeting: Hello! Pricing-service configuration
 product:
-  price: 44.99
+  price: 88.99
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8888/eureka/
 management:
   security:
-    enabled: false
+    enabled: false9000
